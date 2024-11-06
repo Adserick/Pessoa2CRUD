@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apipessoa2", "apipessoa2\apipessoa2.csproj", "{5AD1DA1D-134B-4403-8017-EAC801F4ECF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webPessoa", "webPessoa\webPessoa.csproj", "{B9010341-41CA-40E1-8FF7-0B7386B7101C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD1DA1D-134B-4403-8017-EAC801F4ECF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD1DA1D-134B-4403-8017-EAC801F4ECF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD1DA1D-134B-4403-8017-EAC801F4ECF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD1DA1D-134B-4403-8017-EAC801F4ECF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9010341-41CA-40E1-8FF7-0B7386B7101C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9010341-41CA-40E1-8FF7-0B7386B7101C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9010341-41CA-40E1-8FF7-0B7386B7101C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9010341-41CA-40E1-8FF7-0B7386B7101C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B1992E-82C7-40E8-8609-717EF7604F70}
+	EndGlobalSection
+EndGlobal
